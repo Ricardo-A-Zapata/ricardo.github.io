@@ -1,3 +1,2 @@
 # ricardo.github.io
-Home Page
-Within this repository are the projects I have worked on and completed
+Home Page: Within this repository are the projects I have worked on and completed
